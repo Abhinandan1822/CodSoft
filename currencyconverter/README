@@ -1,0 +1,89 @@
+# Currency Converter - Spring Boot Project
+
+This is a simple Currency Converter web application built using **Spring Boot**, **JSP**, and **Maven**.
+
+## 🚀 Features
+- Convert currencies using real-time exchange rates
+- User-friendly JSP interface
+- MVC architecture with Spring Boot
+
+---
+
+## 📝 Prerequisites
+Before running the project, ensure you have the following installed:
+
+- **Java JDK 8+**
+- **Maven**
+- **Git**
+- **IDE (VS Code, IntelliJ, Eclipse, etc.)**
+
+---
+
+## ⚙️ Setup Instructions
+
+1️⃣ **Clone the Repository:**  
+```bash
+git clone https://github.com/Abhinandan1822/CodSoft.git
+cd CodSoft/currencyconverter
+```
+
+2️⃣ **Build the Project with Maven:**  
+```bash
+mvn clean install
+```
+
+3️⃣ **Run the Application:**  
+```bash
+mvn spring-boot:run
+```
+Or, if using an IDE, run `CurrencyconverterApplication.java` directly.
+
+4️⃣ **Access the Application:**  
+Open your browser and go to:
+```bash
+http://localhost:8080/jsps/converter.jsp
+```
+
+---
+
+## 📁 Project Structure
+```
+currencyconverter/
+├── src/main/java/com/biit/currencyconverter/
+│   ├── controller/          # Handles HTTP requests
+│   ├── model/               # Data models
+│   ├── service/             # Business logic
+│   └── CurrencyconverterApplication.java
+├── src/main/resources/      # Application properties
+├── src/main/webapp/jsps/    # JSP files (UI)
+├── pom.xml                  # Maven configuration
+└── README.md                # Project documentation
+```
+
+---
+
+## ⚡ Technologies Used
+- **Java** (Spring Boot Framework)
+- **Maven** (Build Tool)
+- **JSP** (Frontend)
+- **Git** (Version Control)
+
+---
+
+## 🤝 Contributing
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a Pull Request
+
+---
+
+## 📧 Contact
+**Abhinandan**  
+GitHub: [@Abhinandan1822](https://github.com/Abhinandan1822)
+
+---
+
+## ⭐️ Don't forget to **star** this repository if you found it helpful!
+
