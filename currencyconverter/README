@@ -1,33 +1,33 @@
-# Currency Converter - Spring Boot Project
+Currency Converter - Spring Boot Project
 
-This is a simple Currency Converter web application built using **Spring Boot**, **JSP**, and **Maven**.
+This is a simple Currency Converter web application built using Spring Boot JSP and Maven.
 
-## 🚀 Features
+ 🚀 Features
 - Convert currencies using real-time exchange rates
 - User-friendly JSP interface
 - MVC architecture with Spring Boot
 
 ---
 
-## 📝 Prerequisites
+ 📝 Prerequisites
 Before running the project, ensure you have the following installed:
 
-- **Java JDK 8+**
-- **Maven**
-- **Git**
-- **IDE (VS Code, IntelliJ, Eclipse, etc.)**
+- Java JDK 8+
+- Maven
+- Git
+- IDE (VS Code, IntelliJ, Eclipse, etc)
 
 ---
 
-## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
-1️⃣ **Clone the Repository:**  
+1️⃣ Clone the Repository:  
 ```bash
 git clone https://github.com/Abhinandan1822/CodSoft.git
 cd CodSoft/currencyconverter
 ```
 
-2️⃣ **Build the Project with Maven:**  
+2️⃣ Build the Project with Maven:  
 ```bash
 mvn clean install
 ```
@@ -38,7 +38,7 @@ mvn spring-boot:run
 ```
 Or, if using an IDE, run `CurrencyconverterApplication.java` directly.
 
-4️⃣ **Access the Application:**  
+4️⃣ Access the Application  
 Open your browser and go to:
 ```bash
 http://localhost:8080/jsps/converter.jsp
@@ -63,14 +63,14 @@ currencyconverter/
 ---
 
 ## ⚡ Technologies Used
-- **Java** (Spring Boot Framework)
-- **Maven** (Build Tool)
-- **JSP** (Frontend)
-- **Git** (Version Control)
+- Java (Spring Boot Framework)
+- Maven (Build Tool)
+- JSP (Frontend)
+- Git (Version Control)
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
 3. Commit your changes (`git commit -m 'Add new feature'`)
@@ -80,10 +80,9 @@ currencyconverter/
 ---
 
 ## 📧 Contact
-**Abhinandan**  
+Abhinandan  
 GitHub: [@Abhinandan1822](https://github.com/Abhinandan1822)
 
 ---
 
-## ⭐️ Don't forget to **star** this repository if you found it helpful!
 
